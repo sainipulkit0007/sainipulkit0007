@@ -1,4 +1,11 @@
 ### Hi there 👋
+### I'am Pulkit Saini
+
+## ABOUT ME
+🏄‍ An Android App and Front End Developer.
+🌱 I love to make Apps.
+✍ I also write Blogs, generally tech related.
+⚡ Quick Learner
 
 <!--
 **sainipulkit0007/sainipulkit0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

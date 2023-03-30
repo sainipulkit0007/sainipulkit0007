@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'am Pulkit Saini
+# I'am Pulkit Saini
 
 ## ABOUT ME
 🏄‍ An Android App and Front End Developer.
